@@ -129,7 +129,7 @@ function keyPressed(){
   if (keyCode == 32){
     // console.log("keyPressed");
     slingShot.attach(polygon);
-    polygon.position = { x : 100 , y : 200 }
+    //polygon.position = { x : 100 , y : 200 }
     // block1.reset();
     // block2.reset();
     // block3.reset();
